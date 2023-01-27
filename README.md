@@ -1,6 +1,10 @@
 # ExpenseTracker
 Expense Tracker for iOS App with SwiftUI
 
+## Todo
+- add custom insert expensed
+- modified for local database
+
 ## Demo
 | Light Mode | Dark Mode |
 | :---------: | :---------: |
