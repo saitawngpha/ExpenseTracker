@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "chartview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppPear/ChartView",
+      "state" : {
+        "revision" : "caa75ecbc0d68f2b50d714909566406f80214186",
+        "version" : "2.0.0-beta.2"
+      }
+    },
+    {
+      "identity" : "swiftuifonticon",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/huybuidac/SwiftUIFontIcon",
+      "state" : {
+        "branch" : "master",
+        "revision" : "4f170fbf443d985ae518a14a12ec8194ec6b08eb"
+      }
+    }
+  ],
+  "version" : 2
+}
